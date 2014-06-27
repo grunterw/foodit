@@ -1,0 +1,188 @@
+{
+    "menu": [{
+    "category" : "Kebabs (Kebabs)",
+    "menuItems" : [{
+            "id": 0,
+            "name": "Lamb Kebab",
+            "description": "Cubes of lamb cooked on charcoal served in pitta bread and salad",
+            "category": "Kebabs",
+            "sizeAndPrice": {
+                "regular": "0.00"
+            },
+            "mealTypeOptions": [{
+                "name": "Size",
+                "multiSelect": false,
+                "dropDown": false,
+                "options": [{
+                    "label": "Small",
+                    "pricesForSize": {
+                        "regular": "4.50"
+                    }
+                }, {
+                    "label": "Large",
+                    "pricesForSize": {
+                        "regular": "6.50"
+                    }
+                }]
+            }, {
+                "name": "Side",
+                "multiSelect": true,
+                "dropDown": false,
+                "options": [{
+                    "label": "Chips",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Roast Potatoes",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Rice",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Taramasalata",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Houmous",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Tzatziki",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Greek Salad",
+                    "pricesForSize": {
+                        "regular": "3.00"
+                    }
+                }]
+            }, {
+                "name": "Drinks",
+                "multiSelect": true,
+                "dropDown": false,
+                "options": [{
+                    "label": "Coke",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }, {
+                    "label": "Diet Coke",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }, {
+                    "label": "Pepsi",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }, {
+                    "label": "7UP",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }]
+            }],
+            "startingFromPrice": "4.50"
+        }, {
+            "id": 1,
+            "name": "Pork Kebab",
+            "description": "Cubes of pork cooked on charcoal served in pitta bread and salad",
+            "category": "Kebabs",
+            "sizeAndPrice": {
+                "regular": "0.00"
+            },
+            "mealTypeOptions": [{
+                "name": "Size",
+                "multiSelect": false,
+                "dropDown": false,
+                "options": [{
+                    "label": "Small",
+                    "pricesForSize": {
+                        "regular": "4.00"
+                    }
+                }, {
+                    "label": "Large",
+                    "pricesForSize": {
+                        "regular": "5.50"
+                    }
+                }]
+            }, {
+                "name": "Side",
+                "multiSelect": true,
+                "dropDown": false,
+                "options": [{
+                    "label": "Chips",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Roast Potatoes",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Rice",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Taramasalata",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Houmous",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Tzatziki",
+                    "pricesForSize": {
+                        "regular": "1.50"
+                    }
+                }, {
+                    "label": "Greek Salad",
+                    "pricesForSize": {
+                        "regular": "3.00"
+                    }
+                }]
+            }, {
+                "name": "Drinks",
+                "multiSelect": true,
+                "dropDown": false,
+                "options": [{
+                    "label": "Coke",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }, {
+                    "label": "Diet Coke",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }, {
+                    "label": "Pepsi",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }, {
+                    "label": "7UP",
+                    "pricesForSize": {
+                        "regular": "0.80"
+                    }
+                }]
+            }],
+            "startingFromPrice": "4.00"
+        }
+        
+        ]
+        }
+        ]}
